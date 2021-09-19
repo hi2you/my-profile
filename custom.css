@@ -1,11 +1,4 @@
-/* Error: Undefined variable.
- *   ,
- * 6 | $carousel-indicator-active-bg:       $white;
- *   |                                      ^^^^^^
- *   '
- *   custom.scss 6:38  root stylesheet */
-
- .my-bg-photo {
+.my-bg-photo {
   background: url('images/banner-bg.jpg') no-repeat;
   background-size: cover;
   background-position: center center;
