@@ -37,3 +37,8 @@
 .my-drawing:hover {
   transform: scale(1.054) rotate(15deg);
 }
+
+/*my code here*/
+.contact{
+  align-content: center;
+}
