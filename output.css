@@ -26,9 +26,11 @@
     max-width: 800px;
   }
   
+  /*
   .accordion .btn-link:focus {
     box-shadow: none;
   }
+  
 
 /* drawing animation
   .my-drawing {
